@@ -1,49 +1,34 @@
-# MODULENAAM-TAAK-NR
+# ClassDiagram-TAAK-02
 
-> Bijvoorbeeld:  
-> PHP-Basic-Taak-01
-
-## Titel
-
-Geef de taak een pakkende titel.
-> Bijvoorbeeld:  
->
-> ## First Function
+## Classes en objecten
 
 ## Uitleg
+De hele wereld bestaat uit objecten. Sommige tastbaar, sommige niet. Zo is een stoel een object. Of een mens. 
+Elk object heeft eigenschappen (kenmerken: zoals leeftijd, materiaal, kleur) en doet dingen (methodes: haar kammen, ronddraaien, verplaatsen).
+Een klasse zijn allemaal objecten bij elkaar. 
+Stoel is een klasse, maar de stoel waarop jij op zit is een object. Die stoel is een instantie van een klasse. Alle eigenschappen van de klasse stoel (zoals materiaal, hoogteVerstelbaar, kleur) zijn bij een object ingevuld. Mijn stoel is grijs, van stof en ja in hoogte verstelbaar).
+Maar jouw object is waarschijnlijk anders. 
 
-Introducerende tekst. Uitleggen nut van de opdracht eventueel met praktijk voorbeelden.
-> Voorbeeld:  
-> Functies zijn een manier om je code onder te verdelen in logische blokken. Jij kan dan bepalen wanneer het blok code dat in een functie zit wordt uitegevoerd in plaats dat alle code in een script van boven naar beneden wordt uitgevoerd.
->
->Vooral als de hoeveelheid code toeneemt is het handig om goed na te denken hoe je de code kan scheiden zodat je niet telkens dezelfde code schrijft.
->  
-> In deze les leer je hoe je een aangeleverde functie aanroept zodat de code die in die functie staat wordt uitgevoerd.
+Daarnaast hebben klassen soms een relatie met elkaar. Het simpelste voorbeeld: jij hebt een relatie met je ouders. 
+
+In deze module gaan we het verder hebben over klassen, eigenschappen, methodes en vooral relaties.
+
+Ook ga je leren hoe je een class diagram tekent en hoe je met een stuk tekst een class diagram maakt.
+
 
 ## Leerdoelen
 
-Eén of meerdere leerdoelen die het liefst SMART zijn geformuleerd en slaan op de inhoud van deze taak.  
-> Voorbeeld:
->
-> 1. [ ] Ik kan met PHP een functie aanspreken
-
+> 1. [ ] Ik kan het verschil tussen klasse en objecten benoemen.
+> 2. [ ] Ik kan een klasse eigenschappen en methodes geven
+> 3. [ ] Ik leg het verschil tussen private en public uit
+> 
 ## Opdracht
-
-Duidelijke tekst die uitlegd wat de student moet precies moet doen. Eventueel onderverdeelt.
-> Voorbeeld:  
->  
-> 1. Schrijf code in `index.php` die de functie genaamd `mijnEerstefunctie` aanroept.
-> 2. Pas de functie `mijnEersteFunctie` zo aan dat aan de tekst die getoond wordt in je browser een uitroepteken wordt toegevoegd.
+1. Lees de powerpoint: les 2 - methodes en eigenschappen.pdf
+2. Neem de class voertuig. Bedenk 5 eigenschappen en minimaal 3 methodes.
+3. Teken in lucidchart je eerste class. Lever deze in als pdf.    
 
 ## Eindresultaat
-
-Duidelijk maken hoe het succesvol maken van de taak eruit ziet. Dit kan tekstueel of liever als mogelijk met gebruik van screenshots / filmpjes  
-> Voorbeeld:  
-> Als je de functie goed uitvoert wordt de volgende tekst getoond in je browser: "functie uitgevoerd"  
+Een eerste class diagram
 
 ## Bronnen
-
-Een lijstje van links naar externe bronnen
-> Bijvoorbeeld:  
->[W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)  
->[Jaap van der Veen - PHP Basiscursus Les3: Functies](https://phpbasis.jaapvdveen.nl/basiscursus-php/les-3-inleiding-functies/)  
+Boek: applicatie en mediaontwikkelaar: blz 66, 5.6
