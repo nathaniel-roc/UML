@@ -1,10 +1,10 @@
-# ClassDiagram-TAAK-02
+# ClassDiagram-TAAK-06
 
 ## Classes en objecten
 
 ## Uitleg
 
-Klassen hebben een relatie met elkaar. Het simpelste voorbeeld: jij hebt een relatie met je ouders. Dit noem je een parent-child relatie. Bij een parent-child relatie deel je enkele eigenschappen en/of methodes maar heb je ook eigen eigenschappen en methodes.
+Klassen hebben een relatie met elkaar.Na parent en child relaties gaan we het nu over de andere relaties hebben. 
 
 ## Leerdoelen
 
@@ -13,16 +13,21 @@ Klassen hebben een relatie met elkaar. Het simpelste voorbeeld: jij hebt een rel
 > 3. [ ] Ik leg het verschil tussen private, public en protected uit
 > 4. [ ] Ik kan bij parent en child klassen methodes en eigenschappen vastleggen
 > 5. [ ] Ik geef methodes en eigenschappen de juiste visibiliteit (private, public of protected)
-
+> 6. [ ] Ik ken de verschillende relaties.
+> 7. [ ] Ik kan relaties leggen tussen diverse classes
+> 8. [ ] Ik geef de multipliciteit aan bij relaties
 
 ## Opdracht
-Bekijk de bijgeleverde classes. Wat is hebben ze met elkaar gemeen? 
-Kan jij de parent(s) maken en de eigenschappen op de juiste plek zetten.
+Bekijk de video over relaties: 
+Leg de relaties tussen de volgende classes
+> - een leerling en een vak
+> - een leerling en een cijfer
+> - een klas en een leerling 
 
-Let op private en public en protected en gebruik de juiste pijl!!
+Geef de multipliciteit ook aan.
 
 ## Eindresultaat
-1 class diagram 
+3 kleine class diagrammen
 
 ## Bronnen
 Boek: applicatie en mediaontwikkelaar:  5.6 en 5.7

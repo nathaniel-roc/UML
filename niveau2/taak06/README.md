@@ -1,4 +1,4 @@
-# ClassDiagram-TAAK-02
+# ClassDiagram-TAAK-06
 
 ## Classes en objecten
 
@@ -14,15 +14,11 @@ Klassen hebben een relatie met elkaar. Het simpelste voorbeeld: jij hebt een rel
 > 4. [ ] Ik kan bij parent en child klassen methodes en eigenschappen vastleggen
 > 5. [ ] Ik geef methodes en eigenschappen de juiste visibiliteit (private, public of protected)
 
-
 ## Opdracht
-Bekijk de bijgeleverde classes. Wat is hebben ze met elkaar gemeen? 
-Kan jij de parent(s) maken en de eigenschappen op de juiste plek zetten.
-
-Let op private en public en protected en gebruik de juiste pijl!!
+In de bijgaande class diagram zitten heel veel fouten. Open de png in een teken programma en geef aan waar de fouten zitten. Lever je gecorrigeerde diagram weer in.
 
 ## Eindresultaat
-1 class diagram 
+1 gecorrigeerd class diagram
 
 ## Bronnen
 Boek: applicatie en mediaontwikkelaar:  5.6 en 5.7

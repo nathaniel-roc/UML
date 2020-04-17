@@ -1,4 +1,4 @@
-# ClassDiagram-TAAK-NR
+# ClassDiagram-TAAK-02
 
 ## Classes en objecten
 
@@ -19,15 +19,16 @@ Ook ga je leren hoe je een class diagram tekent en hoe je met een stuk tekst een
 ## Leerdoelen
 
 > 1. [ ] Ik kan het verschil tussen klasse en objecten benoemen.
+> 2. [ ] Ik kan een klasse eigenschappen en methodes geven
+> 3. [ ] Ik leg het verschil tussen private en public uit
+
 
 ## Opdracht
-1. Bekijk het filmpje: https://web.microsoftstream.com/video/c41c1752-29a5-455a-8e66-469fe61c7ba2?list=studio 
-1. Bekijk daarna het filmpje: https://www.youtube.com/watch?v=K8eOkzQ_o9w 
-   
-2. Kijk om je heen. Kan jij 5 classes bedenken? Schrijf ze op en lever ze in.
-   
+Maak de volgende puzzel : https://www.bookwidgets.com/play/DRHRDW?teacher_id=5556340423393280 
+Maak een screenshot van het eindresultaat
+
 ## Eindresultaat
-5 verschillende klassen
+Opgeloste puzzel
 
 ## Bronnen
 Boek: applicatie en mediaontwikkelaar: blz 66, 5.6

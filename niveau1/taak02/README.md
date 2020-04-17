@@ -23,7 +23,7 @@ Ook ga je leren hoe je een class diagram tekent en hoe je met een stuk tekst een
 > 3. [ ] Ik leg het verschil tussen private en public uit
 > 
 ## Opdracht
-1. Lees de powerpoint: les 2 - methodes en eigenschappen.pdf
+1. Bekijk de video: https://web.microsoftstream.com/video/d72969c6-280c-4bac-ae90-d2c5d0ca78bd
 2. Neem de class voertuig. Bedenk 5 eigenschappen en minimaal 3 methodes.
 3. Teken in lucidchart je eerste class. Lever deze in als pdf.    
 
