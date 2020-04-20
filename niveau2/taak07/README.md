@@ -18,7 +18,8 @@ Klassen hebben een relatie met elkaar.Na parent en child relaties gaan we het nu
 > 8. [ ] Ik geef de multipliciteit aan bij relaties
 
 ## Opdracht
-Bekijk de video over relaties: 
+Bekijk de video over relaties: https://web.microsoftstream.com/video/72ade9dd-2f42-409d-99bd-2988ffe60456 
+
 Leg de relaties tussen de volgende classes
 > - een leerling en een vak
 > - een leerling en een cijfer

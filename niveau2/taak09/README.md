@@ -20,9 +20,11 @@ Klassen hebben een relatie met elkaar.Na parent en child relaties gaan we het nu
 > 9. [ ] Ik weet wat een compositie en een aggregatie is
 
 ## Opdracht
-Bekijk de video over de overige relaties:
-
+Bekijk de video over de overige relaties: https://web.microsoftstream.com/video/c7956780-f9a2-4b0f-90d2-f06f9458c6ce
+En bekijk deze video (van Lucidchart) : https://www.youtube.com/watch?v=UI6lqHOVHic 
+ 
 ## Eindresultaat
+Video's bekeken
 
 ## Bronnen
 Boek: applicatie en mediaontwikkelaar:  5.6 en 5.7
