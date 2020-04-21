@@ -29,7 +29,7 @@ Maak een classdiagram voor de onderstaande tekst. Doorloop de 6 stappen
 > 5. Definieer de relaties
 > 6. Maak methodes en properties
 
-Rutjes uitgeverij geeft boeken uit van verschillende auteurs. Er zijn auteurs die één boek hebben geschreven maar er zijn ook auteurs die meerdere boeken hebben geschreven. Rutjes uitgeverij werkt met verschillende uitgeverijen, afhankelijk van het aard van het boek. Ieder boek wordt echter maar bij één drukkerij gedrukt. Een redacteur van Rutjes uitgeverij werkt met meerdere auteurs. De redacteur verzorgt voor hen de productie. 
+Bij tennisclub de Stuiterbal wordt een overzicht bijgehouden van de leden. Van alle leden zijn persoonlijke gegevens bekend als naam en adresgegevens. Een lid heeft een uniek lidnummer. Verder is bekend wat voor soort speler het lid is. Een lid is een senior, junior of recreatiespeler. De jaarlijkse contributie is afhankelijk van het soort speler. Tenslotte is bekend voor welk team een speler uitkomt in de competitie. Van een team wordt de klasse genoteerd. Recreanten zijn niet ingedeeld in een team, want zij spelen geen competitie.
 
 ## Eindresultaat
 Een class diagram

@@ -1,49 +1,31 @@
-# MODULENAAM-TAAK-NR
+# ClassDiagram-TAAK-01
 
-> Bijvoorbeeld:  
-> PHP-Basic-Taak-01
-
-## Titel
-
-Geef de taak een pakkende titel.
-> Bijvoorbeeld:  
->
-> ## First Function
+## Classes en objecten
 
 ## Uitleg
 
-Introducerende tekst. Uitleggen nut van de opdracht eventueel met praktijk voorbeelden.
-> Voorbeeld:  
-> Functies zijn een manier om je code onder te verdelen in logische blokken. Jij kan dan bepalen wanneer het blok code dat in een functie zit wordt uitegevoerd in plaats dat alle code in een script van boven naar beneden wordt uitgevoerd.
->
->Vooral als de hoeveelheid code toeneemt is het handig om goed na te denken hoe je de code kan scheiden zodat je niet telkens dezelfde code schrijft.
->  
-> In deze les leer je hoe je een aangeleverde functie aanroept zodat de code die in die functie staat wordt uitgevoerd.
+Nu we weten hoe we classes moeten maken, hoe we deze eigenschappen en methodes kunnen geven en hoe we relaties tussen klassen kunnen aanmaken gaan we nu een class diagram opbouwen vanaf 0. 
 
 ## Leerdoelen
 
-Eén of meerdere leerdoelen die het liefst SMART zijn geformuleerd en slaan op de inhoud van deze taak.  
-> Voorbeeld:
->
-> 1. [ ] Ik kan met PHP een functie aanspreken
+> 1. [ ] Ik kan het verschil tussen parent en child klassen benoemen.
+> 2. [ ] Ik kan parent-child klassen aanmaken
+> 3. [ ] Ik leg het verschil tussen private, public en protected uit
+> 4. [ ] Ik kan bij parent en child klassen methodes en eigenschappen vastleggen
+> 5. [ ] Ik geef methodes en eigenschappen de juiste visibiliteit (private, public of protected)
+> 6. [ ] Ik ken de verschillende relaties.
+> 7. [ ] Ik kan relaties leggen tussen diverse classes
+> 8. [ ] Ik geef de multipliciteit aan bij relaties
+> 9. [ ] Ik weet wat een compositie en een aggregatie is
+>10. [ ] Ik kan vanuit tekst een class diagram opbouwen
+
 
 ## Opdracht
+Bekijk de video: 
 
-Duidelijke tekst die uitlegd wat de student moet precies moet doen. Eventueel onderverdeelt.
-> Voorbeeld:  
->  
-> 1. Schrijf code in `index.php` die de functie genaamd `mijnEerstefunctie` aanroept.
-> 2. Pas de functie `mijnEersteFunctie` zo aan dat aan de tekst die getoond wordt in je browser een uitroepteken wordt toegevoegd.
+en maak daarna de overige taken
 
 ## Eindresultaat
 
-Duidelijk maken hoe het succesvol maken van de taak eruit ziet. Dit kan tekstueel of liever als mogelijk met gebruik van screenshots / filmpjes  
-> Voorbeeld:  
-> Als je de functie goed uitvoert wordt de volgende tekst getoond in je browser: "functie uitgevoerd"  
-
 ## Bronnen
-
-Een lijstje van links naar externe bronnen
-> Bijvoorbeeld:  
->[W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)  
->[Jaap van der Veen - PHP Basiscursus Les3: Functies](https://phpbasis.jaapvdveen.nl/basiscursus-php/les-3-inleiding-functies/)  
+Boek: applicatie en mediaontwikkelaar: blz 5.6 en 5.7

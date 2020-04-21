@@ -29,7 +29,31 @@ Maak een classdiagram voor de onderstaande tekst. Doorloop de 6 stappen
 > 5. Definieer de relaties
 > 6. Maak methodes en properties
 
-Rutjes uitgeverij geeft boeken uit van verschillende auteurs. Er zijn auteurs die één boek hebben geschreven maar er zijn ook auteurs die meerdere boeken hebben geschreven. Rutjes uitgeverij werkt met verschillende uitgeverijen, afhankelijk van het aard van het boek. Ieder boek wordt echter maar bij één drukkerij gedrukt. Een redacteur van Rutjes uitgeverij werkt met meerdere auteurs. De redacteur verzorgt voor hen de productie. 
+Het OV systeem
+De reiziger stapt de bus en scant zijn ov-chipkaart. Het ovsysteem controleert op 
+-	Kaartnummer
+-	Geldigheidsdatum
+-	Voldoende saldo
+
+Als de ov-chipkaart geldig is en voldoende saldo heeft, wordt een reis geregistreerd met de volgende gegevens
+-	reisnummer 
+-	kaartnummer
+-	vervoermiddelnummer
+-	geldigheidsdatum
+-	saldo
+-	begindatum en -tijd reis
+-	instaphalte
+-	reisbedrag
+Daarna wordt de volgende melding gegeven op het scanapparaat: “Goede reis - <bedrag>”
+Anders wordt de volgende melding gegeven op het scanapparaat: “Onvoldoende saldo – <saldo>”
+Wanner de bestemming bereikt is, scant de reiziger zijn ov-chipkaart. Het ov-systeem registreert 
+-	uitstaphalte
+-	einddatum en -tijd reis
+-	reisbedrag
+-	saldo
+Het ov-systeem rekent het nieuwe saldo uit en vervolgens wordt de volgende melding getoond op het scanapparaat: “Tot ziens”
+Als de reiziger niet uitcheckt wordt een reis van 10 euro gerekend. Als de reiziger wel uitcheckt wordt het werkelijke reisbedrag uitgerekend gebaseerd op een reistabel 
+De gegevens van de reis worden in het ov systeem opgeslagen.
 
 ## Eindresultaat
 Een class diagram
