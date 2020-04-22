@@ -1,13 +1,23 @@
-# MODULENAAM-Eindtaak
-
-> Bijvoorbeeld:  
-> PHP-Basic-Taak-01
+# Ontwerpen2-Eindtaak
 
 ## Titel
-
+Zeilschool Windmee
 ## Uitleg
+In deze eindopdracht ga je op basis van een stuk tekst een volledig class diagram maken.
 
 ## Leerdoelen
+
+> 1. [ ] Ik kan het verschil tussen parent en child klassen benoemen.
+> 2. [ ] Ik kan parent-child klassen aanmaken
+> 3. [ ] Ik leg het verschil tussen private, public en protected uit
+> 4. [ ] Ik kan bij parent en child klassen methodes en eigenschappen vastleggen
+> 5. [ ] Ik geef methodes en eigenschappen de juiste visibiliteit (private, public of protected)
+> 6. [ ] Ik ken de verschillende relaties.
+> 7. [ ] Ik kan relaties leggen tussen diverse classes
+> 8. [ ] Ik geef de multipliciteit aan bij relaties
+> 9. [ ] Ik weet wat een compositie en een aggregatie is
+>10. [ ] Ik kan vanuit tekst een class diagram opbouwen
+
 
 
 ## Opdracht
@@ -21,14 +31,8 @@ De administratie kan medewerkers toevoegen, wijzigen en verwijderen en op verzoe
 
 
 ## Eindresultaat
-
-Duidelijk maken hoe het succesvol maken van de taak eruit ziet. Dit kan tekstueel of liever als mogelijk met gebruik van screenshots / filmpjes  
-> Voorbeeld:  
-> Als je de functie goed uitvoert wordt de volgende tekst getoond in je browser: "functie uitgevoerd"  
+Een volledig class diagram
 
 ## Bronnen
-
-Een lijstje van links naar externe bronnen
-> Bijvoorbeeld:  
->[W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)  
->[Jaap van der Veen - PHP Basiscursus Les3: Functies](https://phpbasis.jaapvdveen.nl/basiscursus-php/les-3-inleiding-functies/)  
+Boek: applicatie en mediaontwikkelaar: blz 5.6 en 5.7
+Video: https://www.youtube.com/watch?v=UI6lqHOVHic 
