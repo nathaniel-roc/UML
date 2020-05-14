@@ -1,4 +1,4 @@
-# ClassDiagram-TAAK-NR
+# ClassDiagram-TAAK-01
 
 ## Classes en objecten
 
@@ -30,4 +30,5 @@ Ook ga je leren hoe je een class diagram tekent en hoe je met een stuk tekst een
 5 verschillende klassen
 
 ## Bronnen
-Boek: applicatie en mediaontwikkelaar: blz 66, 5.6
+- Boek: applicatie en mediaontwikkelaar: blz 66, 5.6
+- Powerpoint: <a href=https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf> Objecten en classes</a>
