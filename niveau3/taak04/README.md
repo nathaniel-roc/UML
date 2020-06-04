@@ -41,3 +41,4 @@ Een class diagram
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf"> Objecten en classes</a>
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>
+- Powerpoint <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau3/taak01/taak%201%20-%20van%20tekst%20naar%20diagram%20v0.pdf">Van tekst naar diagram </a>
