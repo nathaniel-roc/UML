@@ -29,9 +29,11 @@ Maak een classdiagram voor de onderstaande tekst. Doorloop de 6 stappen
 > 5. Definieer de relaties
 > 6. Maak methodes en properties
 
+Gebruik deze tekst
+<i>
 Er komt een nieuwe cliënt bij het gezondheidscentrum. Deze laat zich registreren door de baliemedewerker in het patiëntvolgsysteem (PVS). Hiervoor verstrekt de cliënt de nodige gegevens. Nadat de baliemedewerker deze heeft ingevoerd worden ze door de cliënt gecontroleerd en slaat de baliemedewerker de gegevens op in PVS.
 Van een nieuwe cliënt worden de gegevens vastgelegd. Vervolgens meldt de cliënt zich bij de behandelaar. De behandelaar vraagt de gegevens van de betreffende cliënt op uit PVS en bespreekt de behandeling. Na de behandeling legt de behandelaar de behandelgegevens vast in PVS. De behandelaar maakt eventueel een nieuwe afspraak met de cliënt. Indien gewenst wordt er een bevestiging van de afspraak per mail naar de cliënt verzonden. Na de behandeling wordt een factuur naar de zorgverzekeraar verzonden. De zorgverzekeraar betaalt de factuur.
-
+</i>
 ## Eindresultaat
 Een class diagram
 
@@ -39,4 +41,4 @@ Een class diagram
 - Boek: applicatie en mediaontwikkelaar: blz 66, 5.6 en 5.7
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf"> Objecten en classes</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>c
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>

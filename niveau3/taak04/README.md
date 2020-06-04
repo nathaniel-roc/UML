@@ -28,8 +28,10 @@ Maak een classdiagram voor de onderstaande tekst. Doorloop de 6 stappen
 > 4. Maak klassen
 > 5. Definieer de relaties
 > 6. Maak methodes en properties
-
+Gebruik deze tekst
+<i>
 Bij tennisclub de Stuiterbal wordt een overzicht bijgehouden van de leden. Van alle leden zijn persoonlijke gegevens bekend als naam en adresgegevens. Een lid heeft een uniek lidnummer. Verder is bekend wat voor soort speler het lid is. Een lid is een senior, junior of recreatiespeler. De jaarlijkse contributie is afhankelijk van het soort speler. Tenslotte is bekend voor welk team een speler uitkomt in de competitie. Van een team wordt de klasse genoteerd. Recreanten zijn niet ingedeeld in een team, want zij spelen geen competitie.
+</i>
 
 ## Eindresultaat
 Een class diagram
@@ -38,4 +40,4 @@ Een class diagram
 - Boek: applicatie en mediaontwikkelaar: blz 66, 5.6 en 5.7
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf"> Objecten en classes</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>c
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>

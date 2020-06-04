@@ -28,8 +28,9 @@ Maak een classdiagram voor de onderstaande tekst. Doorloop de 6 stappen
 > 4. Maak klassen
 > 5. Definieer de relaties
 > 6. Maak methodes en properties
+Gebruik deze tekst:
 
-Rutjes uitgeverij geeft boeken uit van verschillende auteurs. Er zijn auteurs die één boek hebben geschreven maar er zijn ook auteurs die meerdere boeken hebben geschreven. Rutjes uitgeverij werkt met verschillende uitgeverijen, afhankelijk van het aard van het boek. Ieder boek wordt echter maar bij één drukkerij gedrukt. Een redacteur van Rutjes uitgeverij werkt met meerdere auteurs. De redacteur verzorgt voor hen de productie. 
+<i>Rutjes uitgeverij geeft boeken uit van verschillende auteurs. Er zijn auteurs die één boek hebben geschreven maar er zijn ook auteurs die meerdere boeken hebben geschreven. Rutjes uitgeverij werkt met verschillende uitgeverijen, afhankelijk van het aard van het boek. Ieder boek wordt echter maar bij één drukkerij gedrukt. Een redacteur van Rutjes uitgeverij werkt met meerdere auteurs. De redacteur verzorgt voor hen de productie. </i>
 
 ## Eindresultaat
 Een class diagram
@@ -38,4 +39,4 @@ Een class diagram
 - Boek: applicatie en mediaontwikkelaar: blz 66, 5.6 en 5.7
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf"> Objecten en classes</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>c
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>

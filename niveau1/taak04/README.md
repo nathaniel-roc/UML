@@ -24,7 +24,7 @@ Ook ga je leren hoe je een class diagram tekent en hoe je met een stuk tekst een
 
 
 ## Opdracht
-Maak de volgende puzzel : https://www.bookwidgets.com/play/DRHRDW?teacher_id=5556340423393280 
+Maak de volgende puzzel : https://www.bookwidgets.com/play/56JQ5Z?teacher_id=6149076612546560 
 Maak een screenshot van het eindresultaat
 
 ## Eindresultaat

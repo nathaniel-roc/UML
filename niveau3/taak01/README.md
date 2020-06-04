@@ -22,7 +22,7 @@ Nu we weten hoe we classes moeten maken, hoe we deze eigenschappen en methodes k
 
 ## Opdracht
 Bekijk de video: 
-
+https://web.microsoftstream.com/video/ced31ea1-a3cf-4e3d-9386-cb498aa0b989
 en maak daarna de overige taken
 
 ## Eindresultaat
@@ -31,4 +31,4 @@ en maak daarna de overige taken
 - Boek: applicatie en mediaontwikkelaar: blz 66, 5.6 en 5.7
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf"> Objecten en classes</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>c
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>

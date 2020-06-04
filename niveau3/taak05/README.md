@@ -29,6 +29,8 @@ Maak een classdiagram voor de onderstaande tekst. Doorloop de 6 stappen
 > 5. Definieer de relaties
 > 6. Maak methodes en properties
 
+Gebruik deze tekst
+<i>
 Het OV systeem
 De reiziger stapt de bus en scant zijn ov-chipkaart. Het ovsysteem controleert op 
 -	Kaartnummer
@@ -54,7 +56,7 @@ Wanner de bestemming bereikt is, scant de reiziger zijn ov-chipkaart. Het ov-sys
 Het ov-systeem rekent het nieuwe saldo uit en vervolgens wordt de volgende melding getoond op het scanapparaat: “Tot ziens”
 Als de reiziger niet uitcheckt wordt een reis van 10 euro gerekend. Als de reiziger wel uitcheckt wordt het werkelijke reisbedrag uitgerekend gebaseerd op een reistabel 
 De gegevens van de reis worden in het ov systeem opgeslagen.
-
+</i>
 ## Eindresultaat
 Een class diagram
 
@@ -62,4 +64,4 @@ Een class diagram
 - Boek: applicatie en mediaontwikkelaar: blz 66, 5.6 en 5.7
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf"> Objecten en classes</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>c
+- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>

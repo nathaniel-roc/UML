@@ -20,10 +20,9 @@ Klassen hebben een relatie met elkaar.Na parent en child relaties gaan we het nu
 > 9. [ ] Ik weet wat een compositie en een aggregatie is
 
 ## Opdracht
-Maak de quiz: https://www.bookwidgets.com/play/9RG59T?teacher_id=5556340423393280 
-
+Maak de quiz: https://www.bookwidgets.com/play/Z6JHZG?teacher_id=6149076612546560 
 ## Eindresultaat
-Een gemaakte quiz
+Een gemaakte en ingestuurde quiz
 
 ## Bronnen
 - Boek: applicatie en mediaontwikkelaar: blz 66, 5.6
