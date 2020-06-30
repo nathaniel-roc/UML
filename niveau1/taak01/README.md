@@ -21,10 +21,10 @@ Ook ga je leren hoe je een class diagram tekent en hoe je met een stuk tekst een
 > 1. [ ] Ik kan het verschil tussen klasse en objecten benoemen.
 
 ## Opdracht
-1. Bekijk het filmpje: https://web.microsoftstream.com/video/c41c1752-29a5-455a-8e66-469fe61c7ba2?list=studio 
-1. Bekijk daarna het filmpje: https://www.youtube.com/watch?v=K8eOkzQ_o9w 
+1. Bekijk het filmpje: https://web.microsoftstream.com/video/c41c1752-29a5-455a-8e66-469fe61c7ba2
+2. Bekijk daarna het filmpje: https://www.youtube.com/watch?v=K8eOkzQ_o9w 
    
-2. Kijk om je heen. Kan jij 5 classes bedenken? Schrijf ze op en lever ze in.
+3. Kijk om je heen. Kan jij 5 classes bedenken? Schrijf ze op en lever ze in.
    
 ## Eindresultaat
 5 verschillende klassen

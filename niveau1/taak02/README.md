@@ -33,3 +33,4 @@ Een eerste class diagram
 ## Bronnen
 - Boek: applicatie en mediaontwikkelaar: blz 66, 5.6
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
+  

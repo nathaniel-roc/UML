@@ -15,7 +15,9 @@ Daarnaast hebben klassen soms een relatie met elkaar. Het simpelste voorbeeld: j
 
 
 ## Opdracht
-Bekijk de video: https://web.microsoftstream.com/video/313899d0-e36d-44f1-9223-ec8f2d3d6978 en maak daarna de overige taken
+Bekijk de video:
+https://web.microsoftstream.com/video/313899d0-e36d-44f1-9223-ec8f2d3d6978
+en maak daarna de overige taken
 
 ## Eindresultaat
 
