@@ -4,7 +4,7 @@
 
 ## Uitleg
 
-Zoals eerder werd vermeld maken we in de wereld van Software Ontwikkeling gebruik van 2 soorten manieren om de blauwdruk weer te geven, met een schematische tekening [UML](https://nl.wikipedia.org/wiki/Unified_Modeling_Language) en in code (Class).
+Zoals eerder werd vermeld maken we in de wereld van Software Ontwikkeling gebruik van 2 soorten manieren om de blauwdruk weer te geven, met een schematische tekening [UML](https://nl.wikipedia.org/wiki/Unified_Modeling_Language) en in code (OOP).
 
 Om een Class met eigenschappen en methodes (properties en methods) op papier te zetten maken we gebruik van UML. We maken een Class Diagram:
 
@@ -25,15 +25,13 @@ Om een Class met eigenschappen en methodes (properties en methods) op papier te 
 
 ![Kiezen](/classes-en-objecten/taak04/images/keuze.png)
 
-4. Maak nu de Mens Class door de gegevens te wijzigen. 
+4. Maak nu de Mens Class door de gegevens te wijzigen.
 5. Let op dat je de properties bovenin zet en
 6. de methods onderin.
 7. Check je oplossing met het eindresultaat
-
 
 ## Eindresultaat
 
 ![Eindresultaat](/classes-en-objecten/taak04/images/eindresultaat.png)
 
 ## Bronnen
-
