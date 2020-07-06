@@ -12,7 +12,7 @@ Elk object heeft eigenschappen (kenmerken: zoals leeftijd, materiaal, kleur) en 
 
 #### UML
 
-Om een object te kunnen maken wordt er altijd eerst een (bouw) tekening gemaakt. Zo kun je je voorstellen dat een huis-object nooit gemaakt kan worden zonder een [blauwdruk](https://upload.wikimedia.org/wikipedia/commons/9/9e/Blauwdruk-Ronhaar.jpg). Maar van zo'n bouwtekening kunnen we meerdere huizen maken.
+Om een object te kunnen maken wordt er altijd eerst een (bouw) tekening gemaakt. Zo kun je je voorstellen dat een huis nooit gemaakt kan worden zonder een [blauwdruk](https://upload.wikimedia.org/wikipedia/commons/9/9e/Blauwdruk-Ronhaar.jpg). Maar van zo'n bouwtekening kunnen we meerdere huizen maken.
 
 Zo geldt dat ook binnen software ontwikkeling. Met software ontwikkeling maken we eigenlijk twee bouwtekeningen: eentje met UML (op papier) en eentje met code.
 
@@ -26,7 +26,8 @@ Als een stoel een Object is (iets dat je kunt vastpakken) dan is de bouwtekening
 
 Kortom: je maakt altijd eerst een Class om daarna het Object te maken.
 
-Als je een Object hebt gemaakt dan zeg je bijvoorbeeld:
+Als je een Object hebt gemaakt dan heb je van de bouwtekening een product gemaakt dat je kunt vastpakken. 
+Dan zeg je bijvoorbeeld:
 
 > - "De bureaustoel is een instantie van de Class Stoel"
 > - "De sofa is een instantie van de Class Stoel"
@@ -40,6 +41,9 @@ Om het in termen van Software Ontwikkeling te zeggen:
 
 > - Een Class bepaald de eigenschappen van een Object
 > - Een Object geeft waardes aan die eigenschappen
+
+#### OBJECT vs CLASS
+![Object vs Class - bron: https://phpenthusiast.com](/ONTWERPEN-2/1_Classes-Objecten/taak01/images/classes_and_objects.jpg)
 
 ## Leerdoelen
 
