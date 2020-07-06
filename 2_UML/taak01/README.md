@@ -1,14 +1,18 @@
-# ClassDiagram-TAAK-04
+# UML-TAAK-01
 
-## Classes en objecten
+## UML - Class maken
 
 ## Uitleg
 
 Zoals eerder werd vermeld maken we in de wereld van Software Ontwikkeling gebruik van 2 soorten manieren om de blauwdruk weer te geven, met een schematische tekening [UML](https://nl.wikipedia.org/wiki/Unified_Modeling_Language) en in code (OOP).
 
+Een Software Ontwikkelaar zet meestal zijn ideeen eerts op papier. Vandaar dat je deze technische schrijfwijze leert met deze module
+
 Om een Class met eigenschappen en methodes (properties en methods) op papier te zetten maken we gebruik van UML. We maken een Class Diagram:
 
-![Class Diagrams](/classes-en-objecten/taak04/images/eenclass.png)
+![Class Diagrams](/ONTWERPEN-2/2_UML/taak01/images/eenclass.png)
+
+> - Je ziet de naam van de Class bovenin staan. 
 
 ## Leerdoelen
 
@@ -19,11 +23,11 @@ Om een Class met eigenschappen en methodes (properties en methods) op papier te 
 1. Ga naar www.lucidcharts.com en login. (registreer als je dat nog niet gedaan hebt)
 2. Zoek met behulp van de zoekfunctie naar "_Class_"
 
-![Zoeken](/classes-en-objecten/taak04/images/zoeken.png)
+![Zoeken](/ONTWERPEN-2/2_UML/taak01/images/zoeken.png)
 
 3. Sleep het type _Class_ naar het canvas
 
-![Kiezen](/classes-en-objecten/taak04/images/keuze.png)
+![Kiezen](/ONTWERPEN-2/2_UML/taak01/images/keuze.png)
 
 4. Maak nu de Mens Class door de gegevens te wijzigen.
 5. Let op dat je de properties bovenin zet en
@@ -32,6 +36,6 @@ Om een Class met eigenschappen en methodes (properties en methods) op papier te 
 
 ## Eindresultaat
 
-![Eindresultaat](/classes-en-objecten/taak04/images/eindresultaat.png)
+![Eindresultaat](/ONTWERPEN-2/2_UML/taak01/images/eindresultaat.png)
 
 ## Bronnen
