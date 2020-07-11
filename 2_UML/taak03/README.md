@@ -34,9 +34,12 @@ Voertuig Class ---> Vliegtuig Class ---> Boeing 747 Object
 #### Voertuig UML
 
 Zo zou een UML eruit kunnen zien
-![Inheritance](/ONTWERPEN-2/2_UML/taak03/images/overerving.png)
+![Inheritance](images/overerving.png)
 
-Je ziet bovenin de Voertuig Class met eigenschappen die de andere Classes ook kunnen hebben. De overige Classes erven deze eigenschappen, dit wordt aangegeven met de pijl. Je ziet direct dat Vliegtuig een paar _extra_ eigenschappen heeft. Daarnaast heeft Vliegtuig ook nog een methode die de andere Classes niet heeft: __landen()__. Dit geldt ook voor Boot en Auto.
+Je ziet bovenaan in de afbeelding dat de Voertuig Class met eigenschappen die de andere Classes ook kunnen hebben.
+De eigenschappen _kleur_ en _merk_ worden gebruikt door de andere classes.
+
+De overige Classes erven deze eigenschappen, dit wordt aangegeven met de pijl. Je ziet direct dat Vliegtuig een paar _extra_ eigenschappen heeft. Daarnaast heeft Vliegtuig ook nog een methode die de andere Classes niet heeft: __landen()__. Dit geldt ook voor Boot en Auto.
 
 #### Parent en Child Class
 
@@ -48,7 +51,7 @@ Je ziet bovenin de Voertuig Class met eigenschappen die de andere Classes ook ku
 
 > 1. [ ] Ik maak met behulp van UML een Parent Class met een daarbij behorende Child Class
 
-## Opdracht
+### Opdracht
 
 1. Ga naar www.lucidcharts.com
 2. Maak nu wederom een Mens Class met de volgende eigenschappen: _kleur haar_, _oogkleur_, _lichaamslengte_, _voornaam_, _achternaam_ en de volgende methods: _slapen()_, _concentreren()_, _emailen()_, _bellen()_
@@ -57,6 +60,8 @@ Je ziet bovenin de Voertuig Class met eigenschappen die de andere Classes ook ku
 
 ### Eindresultaat
 
-![Eindresultaat](/ONTWERPEN-2/2_UML/taak03/images/eindresultaat.png)
+![Eindresultaat](images/eindresultaat.png)
 
 ### Bronnen
+
+[UML Class Diagram Tutorial](https://youtu.be/UI6lqHOVHic)
