@@ -1,15 +1,17 @@
-# UML-TAAK-03
+# Ontwerpen 2
 
-## UML - Overerving (inheritance)
+## UML-TAAK03
 
-## Uitleg
+### UML - Overerving (inheritance)
 
-In Object geOrienteerd Programmeren (OOP) kun je het design zo maken dat een bepaald ontwerp (class) eigenschappen (en methodes) __erft__ van een andere class. Dit heet overerving (inheritance). Dit scheelt op de lange termijn werk en moeite. Je hoeft namelijk een eigenschap maar 1x te noteren. 
+In Object geOrienteerd Programmeren (OOP) kun je het design zo maken dat een bepaald ontwerp (class) eigenschappen (en methodes) __erft__ van een andere class. Dit heet overerving (inheritance). Dit scheelt op de lange termijn werk en moeite. Je hoeft namelijk een eigenschap maar 1x te noteren.
 
 Een voorbeeld
-> Een Voertuig Class kan een auto zijn maar ook een brommer, een boot of een helicopter. 
 
-Je ziet direct dat de verschillen groot zijn tussen deze Voertuigen, maar er zijn ook eigenschappen (en methodes) die ze allemaal kunnen hebben. 
+> - Een Voertuig Class kan een auto zijn maar ook een brommer, een boot of een helicopter.
+> - Anders gezegd: Van de bouwtekening Voertuig kunnen we een brommer, boot of een helicopter maken
+
+Je ziet direct dat de verschillen groot zijn tussen deze Voertuigen, maar er zijn ook eigenschappen (en methodes) die ze allemaal kunnen hebben.
 
 > - Verschillen kunnen zijn: aantal vleugels, aantal wielen, aantal zeilen, vaart vooruit, vaart achteruit, landen.
 > - Overeenkomsten kunnen zijn: aantal deuren, kan versnellen, kleur, merk, maximum snelheid, versnellen,
@@ -29,11 +31,12 @@ Stel je maakt een Boeing 777 Object en een Boeing 747, dan kun je dat als volgt 
 Voertuig Class ---> Vliegtuig Class ---> Boeing 777 Object
 Voertuig Class ---> Vliegtuig Class ---> Boeing 747 Object
 
-#### Voertuig UML 
+#### Voertuig UML
+
 Zo zou een UML eruit kunnen zien
 ![Inheritance](/ONTWERPEN-2/2_UML/taak03/images/overerving.png)
 
-Je ziet bovenin de Voertuig Class met eigenschappen die de andere Classes ook kunnen hebben. De overige Classes erven deze eigenschappen, dit wordt aangegeven met de pijl. Je ziet direct dat Vliegtuig een paar _extra_ eigenschappen heeft. Daarnaast heeft Vliegtuig ook nog een methode die de andere Classes niet heeft: __landen()__. Dit geldt ook voor Boot en Auto. 
+Je ziet bovenin de Voertuig Class met eigenschappen die de andere Classes ook kunnen hebben. De overige Classes erven deze eigenschappen, dit wordt aangegeven met de pijl. Je ziet direct dat Vliegtuig een paar _extra_ eigenschappen heeft. Daarnaast heeft Vliegtuig ook nog een methode die de andere Classes niet heeft: __landen()__. Dit geldt ook voor Boot en Auto.
 
 #### Parent en Child Class
 
@@ -41,21 +44,19 @@ Je ziet bovenin de Voertuig Class met eigenschappen die de andere Classes ook ku
 > - De Voertuig Class wordt de __parent__ Class genoemd
 > - De overige Classes worden __child__ Classes genoemdn
 
-## Leerdoelen
+### Leerdoelen
 
 > 1. [ ] Ik maak met behulp van UML een Parent Class met een daarbij behorende Child Class
 
 ## Opdracht
 
-1. Ga naar www.lucidcharts.com 
-   
+1. Ga naar www.lucidcharts.com
 2. Maak nu wederom een Mens Class met de volgende eigenschappen: _kleur haar_, _oogkleur_, _lichaamslengte_, _voornaam_, _achternaam_ en de volgende methods: _slapen()_, _concentreren()_, _emailen()_, _bellen()_
-   
 3. Maak een Student Class die de gegevens uit de Mens Class erft. Maar een student heeft nog een eigenschap: _studentnummer_, _schoolemail_ en de methode: _studeren()_, _samenwerken()_, _presenteren()_
-   
-4. Maak een Docent Class die de gegevens uit de Mens Class erft met daarbij de volgende eigenschappen: _werknemernummer_, _werkruimte_, _vak en de volgende methode: _uitleggen_, _begeleiden_
-## Eindresultaat
+4. Maak een Docent Class die de gegevens uit de Mens Class erft met daarbij de volgende eigenschappen: _werknemernummer_, _werkruimte_,**** _vak en de volgende methode: _uitleggen_, _begeleiden_
+
+### Eindresultaat
 
 ![Eindresultaat](/ONTWERPEN-2/2_UML/taak03/images/eindresultaat.png)
 
-## Bronnen
+### Bronnen

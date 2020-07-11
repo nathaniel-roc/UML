@@ -1,8 +1,8 @@
-# ClassDiagram-TAAK-02
+# Ontwerpen 2
 
-## Classes en objecten
+## CLASSES en OBJECTEN-TAAK02
 
-## Uitleg
+### Uitleg
 
 Elk Object heeft eigenschappen met bepaalde waardes.
 Zo heb jij (Mens-Object) misschien wel zwart haar of heb je blond haar. Je hebt een bepaalde lichaamslengte, bijvoorbeeld 183 cm. En je hebt bruine, of groene ogen. Je ziet in deze voorbeelden eigenschappen van de Mens voorbij komen: kleurhaar, lichaamslengte, oogkleur. Je kunt natuurlijk nog meer eigenschappen verzinnen en de waardes voor jou bepalen.
@@ -10,7 +10,7 @@ Zo heb jij (Mens-Object) misschien wel zwart haar of heb je blond haar. Je hebt 
 In dit voorbeeld hebben we het over Mens. Maar je kunt ook andere Objecten en vaardigheden bedenken.
 Bijvoorbeeld
 
-**Computermuis-Classs**
+#### Computermuis-Classs
 
 - aantal knoppen
 - type verbinding
@@ -21,9 +21,9 @@ Bijvoorbeeld
 - ergonomisch
 - kleur
 
-[nog meer eigenschappen](/niveau1/taak02/images/eigenschappen.png)
+[nog meer eigenschappen](images/eigenschappen.png)
 
-**Game-Class**
+#### Game-Class
 
 - minimale leeftijd
 - genre
@@ -34,14 +34,14 @@ Bijvoorbeeld
 
 De drie voorbeelden hierboven laten zien dat een Class vaak een algemeen woord is: mens, muis en game. Zodra je het Object maakt of _instantieert_ dan wordt het specifieker.
 
-## Leerdoelen
+### Leerdoelen
 
 > 1. [ ] Ik geef een zelfgekozen Class 5 eigenschappen
 > 2. [ ] Ik geef de 5 eigenschappen van het Object specifieke en relevante waardes
 
-## Opdracht
+### Opdracht
 
 1. Neem de Class Voertuig. Bedenk 5 eigenschappen die bij een Voertuig horen
 2. Geef die 5 eigenschappen een specifieke en relevante waarde
 
-## Bronnen
+### Bronnen

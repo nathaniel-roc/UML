@@ -1,33 +1,25 @@
-# UML-TAAK-02
+# Ontwerpen 2
 
-## UML - Class maken
+## UML-TAAK02
 
-## Uitleg
+### Class maken
 
 In Lucidcharts kun je uiteraard nog meer classes maken. Dat ga je in deze taak doen.
 
-## Leerdoelen
+### Leerdoelen
 
 > 1. [ ] Ik maak met behulp van UML een Class met properties en methods
 
-## Opdracht
+### Opdracht
 
 1. Ga naar www.lucidcharts.com en login. (registreer als je dat nog niet gedaan hebt)
-2. Zoek met behulp van de zoekfunctie naar "_Class_"
+2. Maak nu de Voertuig Class door de gegevens te wijzigen.
+3. Let op dat je de properties bovenin zet en
+4. de methods onderin.
+5. Check je oplossing met het eindresultaat
 
-![Zoeken](/ONTWERPEN-2/2_UML/taak01/images/zoeken.png)
+### Eindresultaat
 
-3. Sleep het type _Class_ naar het canvas
+![Eindresultaat](images/eindresultaat.png)
 
-![Kiezen](/ONTWERPEN-2/2_UML/taak01/images/keuze.png)
-
-4. Maak nu de Voertuig Class door de gegevens te wijzigen.
-5. Let op dat je de properties bovenin zet en
-6. de methods onderin.
-7. Check je oplossing met het eindresultaat
-
-## Eindresultaat
-
-![Eindresultaat](/ONTWERPEN-2/2_UML/taak02/images/eindresultaat.png)
-
-## Bronnen
+### Bronnen
