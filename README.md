@@ -12,7 +12,7 @@ Voordat je gaat programmeren maken we eerst een bouwtekening, een UML. Unified M
 
 Een class diagram helpt je om een model te maken van waaruit je kan beginnen met programmeren.
 
-In deze module leer je wat classes zijn, hoe je eigenschappen en methodes van een class vastlegt. Hoe je welke relaties tussen classes tekent en hoe je vanuit een stuk tekst een class diagram opbouwt.
+In deze module leer je wat classes zijn, hoe je eigenschappen en methodes van een class vastlegt. Hoe je welke relaties tussen classes tekent en hoe je vanuit een stuk tekst een class diagram opbouwt
 
 ## Leerdoelen
 
