@@ -4,9 +4,13 @@
 
 ## Uitleg
 
-In de wereld van object georienteerd programmeren is het soms lastig om te bedenken wat je nodig hebt. Een class diagram helpt je om een model te maken van waaruit je kan beginnen met programmeren. 
+In de wereld van object georienteerd programmeren is het soms lastig om te bedenken wat je gaat bouwen. Sterker nog in de bouwwereld werken ze altijd met bouwtekeningen.
 
-Een Class diagram is een tekening waar je globaal op papier zet wat je gaat coderen. Daarnaast is het ook design vorm die veel in de softwarewereld wordt gebruikt.
+In de wereld van software ontwikkeling maken we gebruik van bepaalde code design principes. Een daarvan is Object geOrienteerd Programmeren (OOP).
+
+Voordat je gaat programmeren maken we eerst een bouwtekening, een UML. Unified Modeling Language. Gewoon op papier, of met behulp van software, zoals [Lucidchart](https://lucidchart.com)
+
+Een class diagram helpt je om een model te maken van waaruit je kan beginnen met programmeren.
 
 In deze module leer je wat classes zijn, hoe je eigenschappen en methodes van een class vastlegt. Hoe je welke relaties tussen classes tekent en hoe je vanuit een stuk tekst een class diagram opbouwt.
 
@@ -22,12 +26,3 @@ In deze module leer je wat classes zijn, hoe je eigenschappen en methodes van ee
 > 8. [ ] Ik geef de multipliciteit aan bij relaties
 > 9. [ ] Ik weet wat een compositie en een aggregatie is
 >10. [ ] Ik kan vanuit tekst een class diagram opbouwen
-
-## Bronnen
-- Boek: applicatie en mediaontwikkelaar: blz 66, 5.6 en 5.7
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf"> Objecten en classes</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>
-- Powerpoint <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau3/taak01/taak%201%20-%20van%20tekst%20naar%20diagram%20v0.pdf">Van tekst naar diagram </a>
-- Powerpoint <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau3/taak01/taak%201%20-%20van%20tekst%20naar%20diagram%20v0.pdf">Van tekst naar diagram </a>
-- Video: https://www.youtube.com/watch?v=UI6lqHOVHic 
