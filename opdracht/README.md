@@ -1,8 +1,9 @@
-# Ontwerpen2-Eindtaak
+# Ontwerpen2-Module-opdracht
 
-## Titel
-Zeilschool Windmee
-## Uitleg
+## Zeilschool Windmee
+
+## Introductie
+
 In deze eindopdracht ga je op basis van een stuk tekst een volledig class diagram maken.
 
 ## Leerdoelen
@@ -18,27 +19,24 @@ In deze eindopdracht ga je op basis van een stuk tekst een volledig class diagra
 > 9. [ ] Ik weet wat een compositie en een aggregatie is
 >10. [ ] Ik kan vanuit tekst een class diagram opbouwen
 
-
-
 ## Opdracht
+
 Maak een volledig class diagram voor de zeilschool Windmee.
 
-### Zeilschool Windmee
-Zeilschool WindMee is een bedrijf met 2 directeuren, 2 administratief medewerkers en een 10-tal instructeurs. Bij de zeilschool kan je boten huren of leren zeilen. Tijdens een cursus van een week leren cursisten de fijne kneepjes van het vak of worden hun capaciteiten verbeterd. Voor dit onderdeel moet een nieuwe website komen. 
+### Omschrijving
 
-Naast een contactpagina en een home pagina met algemene informatie moet een cursist zich kunnen inloggen (na eventuele registratie). Een cursist kan zich daarna inschrijven voor één of meerdere cursussen. Er zijn 3 typen cursussen: beginners, gevorderd of expert. Elke cursus duurt een week en begint op zaterdag. Bij het inschrijven wordt de voor- en achternaam, het email adres en de geboortedatum van de cursist vastgelegd. 
+Zeilschool WindMee is een bedrijf met 2 directeuren, 2 administratief medewerkers en een 10-tal instructeurs. Bij de zeilschool kan je boten huren of leren zeilen. Tijdens een cursus van een week leren cursisten de fijne kneepjes van het vak of worden hun capaciteiten verbeterd. Voor dit onderdeel moet een nieuwe website komen.
+
+Naast een contactpagina en een home pagina met algemene informatie moet een cursist zich kunnen inloggen (na eventuele registratie). Een cursist kan zich daarna inschrijven voor één of meerdere cursussen. Er zijn 3 typen cursussen: beginners, gevorderd of expert. Elke cursus duurt een week en begint op zaterdag. Bij het inschrijven wordt de voor- en achternaam, het email adres en de geboortedatum van de cursist vastgelegd.
 
 Als een cursus vol zit kan een cursist zich daar niet meer voor inschrijven. Bij de inschrijving ziet een cursist ook hoe duur een cursus is en hoeveel hij totaal kwijt is. Er wordt een nota gegenereerd in PDF. Alle cursussen worden meerdere keren gegeven. Ze starten op zaterdag en eindigen op vrijdag.
-Medewerkers van zeilschool kunnen, als zij ingelogd zijn, cursussen toevoegen, wijzigen en eventueel (bij geen deelnemers) verwijderen. Medewerkers kunnen een deelnemersoverzicht per cursus opvragen. Voor elke cursus zijn schepen nodig. Voor de beginners cursus is dat per 4 deelnemers 1 schip, voor de gevorderden en experts 2 per schip.  Medewerkers kunnen zien welke schepen er beschikbaar zijn (een schip kan in onderhoud zijn). Bij het begin van de cursus is bekend welke schepen er gebruikt gaan worden. Elk schip heeft een naam en een unieke code (WM- gevolgd door 2 cijfers). 
+Medewerkers van zeilschool kunnen, als zij ingelogd zijn, cursussen toevoegen, wijzigen en eventueel (bij geen deelnemers) verwijderen. Medewerkers kunnen een deelnemersoverzicht per cursus opvragen. Voor elke cursus zijn schepen nodig. Voor de beginners cursus is dat per 4 deelnemers 1 schip, voor de gevorderden en experts 2 per schip.  Medewerkers kunnen zien welke schepen er beschikbaar zijn (een schip kan in onderhoud zijn). Bij het begin van de cursus is bekend welke schepen er gebruikt gaan worden. Elk schip heeft een naam en een unieke code (WM- gevolgd door 2 cijfers).
 De administratie kan medewerkers toevoegen, wijzigen en verwijderen en op verzoek de gegevens van een cursist aanpassen. Ook heeft de administratie inzicht in alle cursisten en kan daar op aanvraag gegevens van wijzigen.
 
-
 ## Eindresultaat
+
 Een volledig class diagram
 
 ## Bronnen
-- Boek: applicatie en mediaontwikkelaar: blz 66, 5.6 en 5.7
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak02/taak%202%20-%20methodes%20en%20eigenschappen.pdf">Methodes en eigenschappen</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf"> Objecten en classes</a>
-- Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau2/taak01/taak%201-%20parent%20en%20childs.pdf"> Parent en childs</a>
-- Video: https://www.youtube.com/watch?v=UI6lqHOVHic 
+
+[UML Class Diagram Tutorial](https://youtu.be/UI6lqHOVHic)

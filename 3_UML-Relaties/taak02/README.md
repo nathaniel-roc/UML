@@ -1,6 +1,6 @@
 # Ontwerpen 2
 
-## UML-TAAK04
+## UML-TAAK02
 
 ### Zichtbaarheid
 

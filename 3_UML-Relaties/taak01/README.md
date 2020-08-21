@@ -1,6 +1,6 @@
 # Ontwerpen 2
 
-## UML-TAAK03
+## UML-TAAK01
 
 ### UML - Overerving (inheritance)
 
@@ -8,7 +8,7 @@ In Object geOrienteerd Programmeren (OOP) kun je het design zo maken dat een bep
 
 Een voorbeeld
 
-> - Een Voertuig Class kan een auto zijn maar ook een brommer, een boot of een helicopter.
+> - Van een Voertuig Class kan een auto gemaakt worden maar ook een brommer, een boot of een helicopter.
 > - Anders gezegd: Van de bouwtekening Voertuig kunnen we een brommer, boot of een helicopter maken
 
 Je ziet direct dat de verschillen groot zijn tussen deze Voertuigen, maar er zijn ook eigenschappen (en methodes) die ze allemaal kunnen hebben.
@@ -43,7 +43,7 @@ De overige Classes erven deze eigenschappen, dit wordt aangegeven met de pijl. J
 
 #### Parent en Child Class
 
-> - Alle eigenschappen en alle methodes erven (over)  van Voertuig naar de andere Classes.
+> - Alle eigenschappen en alle methodes erven (over) van Voertuig naar de andere Classes.
 > - De Voertuig Class wordt de __parent__ Class genoemd
 > - De overige Classes worden __child__ Classes genoemdn
 

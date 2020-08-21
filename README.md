@@ -3,9 +3,15 @@
 ## Ontwerpen 2 - het maken van een class diagram
 
 ## Uitleg
-In de wereld van object georienteerd programmeren is het soms lastig om te bedenken wat je nodig hebt. Een class diagram helpt je om een model te maken van waaruit je kan beginnen met programmeren. In deze module leer je wat classes zijn, hoe je eigenschappen en methodes van een class vastlegt. Hoe je welke relaties tussen classes tekent en hoe je vanuit een stuk tekst een class diagram opbouwt.
+
+In de wereld van object georienteerd programmeren is het soms lastig om te bedenken wat je nodig hebt. Een class diagram helpt je om een model te maken van waaruit je kan beginnen met programmeren. 
+
+Een Class diagram is een tekening waar je globaal op papier zet wat je gaat coderen. Daarnaast is het ook design vorm die veel in de softwarewereld wordt gebruikt.
+
+In deze module leer je wat classes zijn, hoe je eigenschappen en methodes van een class vastlegt. Hoe je welke relaties tussen classes tekent en hoe je vanuit een stuk tekst een class diagram opbouwt.
 
 ## Leerdoelen
+
 > 1. [ ] Ik kan het verschil tussen parent en child klassen benoemen.
 > 2. [ ] Ik kan parent-child klassen aanmaken
 > 3. [ ] Ik leg het verschil tussen private, public en protected uit

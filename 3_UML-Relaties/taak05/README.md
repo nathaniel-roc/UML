@@ -1,8 +1,8 @@
 # Ontwerpen 2
 
-## UML-TAAK07
+## UML-TAAK05
 
-### UML Maken
+### UML Overerving (inheritance)
 
 In deze taak ga je nog meer UML diagrammen maken. Met de kennis uit de vorge opdrachten is dit een mooie herhalingsopdracht
 
