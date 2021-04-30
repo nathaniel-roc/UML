@@ -1,4 +1,4 @@
-# Ontwerpen 2
+# UML
 
 ## CLASSES en OBJECTEN-TAAK01
 
