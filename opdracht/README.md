@@ -1,4 +1,4 @@
-# Ontwerpen2-Module-opdracht
+# UML-Module-opdracht
 
 ## Zeilschool Windmee
 
