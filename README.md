@@ -1,6 +1,6 @@
 # UML
 
-## Ontwerpen 2 - het maken van een class diagram
+## UML- het maken van een class diagram
 
 ## Uitleg
 
