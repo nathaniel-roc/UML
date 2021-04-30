@@ -1,4 +1,4 @@
-# Ontwerpen 2
+# UML
 
 ## Ontwerpen 2 - het maken van een class diagram
 
