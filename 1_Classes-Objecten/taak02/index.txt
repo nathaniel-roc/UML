@@ -1,0 +1,7 @@
+voertuig 
+    Eigenscappen:
+        high-speed
+        modern
+        rood
+        blauw 
+        groot
